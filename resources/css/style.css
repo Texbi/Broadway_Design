@@ -1,8 +1,12 @@
+
 body {
   text-align: center;
+  font-family: Helvetica;
+}
+body, p{
+  font-size: 14px;
 }
 .A {
-  font-family: Helvetica;
   background-image: url("../images/the-flatiron-building.png");
   color: white;
 
@@ -15,4 +19,28 @@ body {
   list-style-type: none;
   font-size: 18px;
   color: white;
+}
+H2.Process{
+  font-size: 32px;
+  font-weight: bold;
+}
+H3{
+  font-size: 23px;
+  font-weight: bold;
+}
+#Design-Heading{
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
+}
+.Links2{
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+.Links2 span a{
+  color: white;
+  font-size: 18px;
+}
+.Links2 p{
+  font-size: 11px;
 }

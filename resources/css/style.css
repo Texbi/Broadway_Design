@@ -32,15 +32,15 @@ H3{
   color: white;
   background-image: url("../images/the-flatiron-building.png");
 }
-.Links2{
+.Footer{
   text-align: left;
   background-color: dimgray;
   color: white;
 }
-.Links2 span a{
+.Footer span a{
   color: white;
   font-size: 18px;
 }
-.Links2 p{
+.Footer p{
   font-size: 11px;
 }
